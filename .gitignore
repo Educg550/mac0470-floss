@@ -1,0 +1,23 @@
+# Claude Code
+.claude/
+
+# Build output
+build/
+.docusaurus/
+
+# Dependencies
+node_modules/
+
+# Environment
+.env
+.env.local
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
