@@ -1,8 +1,8 @@
-# MAC0470 — Pad de Aulas
+# MAC0470 - Pad de Aulas
 
-Diário de atividades da disciplina **MAC0470 — Desenvolvimento de Software Livre** (IME-USP).
+Diário de atividades da disciplina **MAC0470 - Desenvolvimento de Software Livre** (IME-USP).
 
-**Nome:** Eduardo Cruz Guedes — NUSP 13672752
+**Nome:** Eduardo Cruz Guedes - NUSP 13672752
 
 Cada página em `docs/aulas/` registra brevemente o tutorial seguido na aula, com observações sobre dificuldades encontradas.
 
@@ -27,7 +27,7 @@ Uma ou duas frases descrevendo o que o tutorial cobre.
 - Dificuldades encontradas, desvios do tutorial, etc.
 ```
 
-3. Salve — o sidebar é gerado automaticamente, nenhuma outra configuração é necessária.
+3. Salve - o sidebar é gerado automaticamente, nenhuma outra configuração é necessária.
 
 ## Desenvolvimento local
 

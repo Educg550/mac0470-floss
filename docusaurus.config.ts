@@ -5,8 +5,8 @@ import type * as Preset from '@docusaurus/preset-classic';
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 const config: Config = {
-  title: 'MAC0470 — Pad de Aulas',
-  tagline: 'Diário de atividades — Desenvolvimento de Software Livre',
+  title: 'MAC0470 - Pad de Aulas',
+  tagline: 'Diário de atividades - Desenvolvimento de Software Livre',
   favicon: 'img/favicon.ico',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
@@ -68,7 +68,7 @@ const config: Config = {
     footer: {
       style: 'dark',
       links: [],
-      copyright: `Eduardo Cruz Guedes (NUSP: 13672752) — MAC0470 Desenvolvimento de Software Livre`,
+      copyright: `Eduardo Cruz Guedes (NUSP: 13672752) - MAC0470 Desenvolvimento de Software Livre`,
     },
     prism: {
       theme: prismThemes.github,

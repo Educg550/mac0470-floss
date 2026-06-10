@@ -15,7 +15,7 @@ function HomepageHeader() {
         <Heading as="h1" className="hero__title">
           {siteConfig.title}
         </Heading>
-        <p className="hero__subtitle">Eduardo Cruz Guedes — NUSP 13672752</p>
+        <p className="hero__subtitle">Eduardo Cruz Guedes - NUSP 13672752</p>
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
@@ -33,7 +33,7 @@ export default function Home(): ReactNode {
   return (
     <Layout
       title={siteConfig.title}
-      description="Diário de atividades — MAC0470 Desenvolvimento de Software Livre">
+      description="Diário de atividades - MAC0470 Desenvolvimento de Software Livre">
       <HomepageHeader />
     </Layout>
   );
